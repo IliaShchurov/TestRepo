@@ -13,7 +13,7 @@ public class arrayTest {
 		int[] numbers = {3,5,6,7,8}; //cant do it after NEW
 		//enhanced for loop
 		for(int num:numbers) {
-			System.out.println(num + "\s");
+			System.out.println(num + "\s" + " this is test 1 ");
 		}
 		
 		String[] string = {"Java", "JavaScript", "C#", "Python"};
@@ -21,3 +21,7 @@ public class arrayTest {
 		
 	}
 }
+
+
+
+//
